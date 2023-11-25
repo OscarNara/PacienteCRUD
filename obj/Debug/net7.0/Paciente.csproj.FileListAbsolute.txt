@@ -1,0 +1,14 @@
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\bin\Debug\net7.0\Paciente.exe
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\bin\Debug\net7.0\Paciente.deps.json
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\bin\Debug\net7.0\Paciente.runtimeconfig.json
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\bin\Debug\net7.0\Paciente.dll
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\bin\Debug\net7.0\Paciente.pdb
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.AssemblyInfoInputs.cache
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.AssemblyInfo.cs
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.csproj.CoreCompileInputs.cache
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.dll
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\refint\Paciente.dll
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.pdb
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\Paciente.genruntimeconfig.cache
+C:\Users\Ixzayara\Desktop\Oscar\Paciente\obj\Debug\net7.0\ref\Paciente.dll
